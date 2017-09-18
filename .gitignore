@@ -1,3 +1,6 @@
 *.pyc
 /browser_tests
 /test_results.xml
+Pipfile
+Pipfile.lock
+main.py
